@@ -1,0 +1,23 @@
+h1{
+    color:rgb(69, 58, 226);
+}
+.header{
+    display: flex;
+    justify-content:space-between;
+    background-color:rgb(206, 157, 96);
+ 
+}
+.Grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color:rgb(173, 130, 73);
+}
+h2,p{
+    text-align: center;
+}
+
+.Description{
+  background-color:rgb(35, 129, 146);
+
+}
